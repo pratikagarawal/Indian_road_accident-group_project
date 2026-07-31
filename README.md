@@ -41,7 +41,7 @@ Dataset Used:
 
 ## Results
 
-Random Forest and XGBoost achieved approximately **90% accuracy**.
+Random Forest and XGBoost achieved approximately **89% accuracy**.
 
 ---
 
